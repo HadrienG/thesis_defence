@@ -1,0 +1,37 @@
+.reveal h1 span {
+    color: #fefefe;
+    background-color: #283c64;
+    opacity: 0.8;
+}
+
+.reveal h2 span {
+    color: #fefefe;
+    background-color: #283c64;
+    opacity: 0.8;
+    font-size: 56px;
+}
+.reveal h3 span {
+    color: #fefefe;
+    background-color: #283c64;
+    opacity: 0.8;
+    font-size: 48px;
+}
+
+.reveal section img {
+    border-style: none;
+    background: none;
+    box-shadow: none;
+}
+
+#coral img {
+    height: 600px;
+    width: auto;
+}
+
+#intro-text-box {
+    font-size: 1.4em;
+    background-color: #283c64;
+    color: #fefefe;
+    opacity: 0.8;
+    text-align: center;
+}
