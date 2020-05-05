@@ -1,0 +1,61 @@
+---
+title: "A dive into the coral microbiome"
+author: "Hadrien Gourlé"
+date: "May 29, 2020"
+output:
+    revealjs::revealjs_presentation:
+        theme: sky
+        highlight: pygments
+        center: true
+        transition: slide
+        template: assets/templates/template.html
+        css: assets/css/custom.css
+        reveal_options:
+            slideNumber: true
+---
+
+# {#intro-slide data-background="assets/img/background.jpg"}
+
+## {#intro-slide data-background="assets/img/background.jpg"}
+
+<div id="intro-text-box">Coral reefs are one of the most diverse ecosystem on the planet.</div><br>
+<div id="intro-text-box" class="fragment fade-left">They are economically vital for many people worldwide</div><br>
+<div id="intro-text-box" class="fragment fade-left">They face great challenges and their population is rapidely declining.</div>
+
+# The coral microbiome {#coral data-transition="zoom-out"}
+
+![](assets/img/coral.svg)
+
+# {data-transition="zoom-in slide-out"}
+
+![](assets/img/microbes.svg)
+
+# test2 {data-transition="zoom"}
+
+## Aims
+
+- metagenomics, improve methodology
+- more understanding of coral microbiome, for helping them
+
+# Paper I - InSilicoSeq
+
+## Why?
+## Results
+## Benchmarking
+
+# Paper II - Data review
+
+## "Special" review of the field
+## Results
+## The way forward
+
+# Paper III
+
+## Why?
+## Results
+## Future Perspectives
+
+# Future future perspectives
+
+## Methods
+## Mucus
