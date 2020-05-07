@@ -23,6 +23,10 @@
     box-shadow: none;
 }
 
+.reveal code {
+    background-color: #fefefe;
+}
+
 #coral img {
     height: 600px;
     width: auto;
@@ -35,3 +39,4 @@
     opacity: 0.8;
     text-align: center;
 }
+

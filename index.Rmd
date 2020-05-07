@@ -26,25 +26,47 @@ output:
 
 ![](assets/img/coral.svg)
 
-# {data-transition="zoom-in slide-out"}
+# {data-transition="zoom-in"}
 
 ![](assets/img/microbes.svg)
 
-# test2 {data-transition="zoom"}
+# Technologies to study the microbiome
 
-## Aims
+_TODO_
+
+# Aims
 
 - metagenomics, improve methodology
 - more understanding of coral microbiome, for helping them
 
-# Paper I - InSilicoSeq
+# Simulating Illumina Metagenomic Data with InSilicoSeq {#paper data-background="assets/img/paper_i.svg"}
 
-## Why?
-## Results
-## Benchmarking
+## Why? {#paper data-background="assets/img/paper_i.svg"}
+
+- metagenomics is kinda new
+- previous simulator did not meet our needs
+- testing and benchmarking software
+
+## Results {#paper data-background="assets/img/paper_i.svg"}
+
+```bash
+$ pip install insilicoseq
+$ iss generate --ncbi bacteria -U 100 -n 10M \
+    --model novaseq --cpus 8 --output reads
+```
+
+## Kernel Density Estimation
+
+hisograms vs KDE
+
+## Benchmarking {#paper data-background="assets/img/paper_i.svg"}
+
+- LOTS of taxonomy classifications tools
+- a few different binning software
 
 # Paper II - Data review
 
+## The 16S gene and metabarcoding
 ## "Special" review of the field
 ## Results
 ## The way forward
