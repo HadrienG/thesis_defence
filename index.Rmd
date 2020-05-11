@@ -32,7 +32,17 @@ output:
 
 # Technologies to study the microbiome
 
-_TODO_
+## Sequencing
+
+From organism to sequence
+
+## Bioinformatics
+
+- From 
+- multiple genome assembly
+- taxonomic classification
+- protein assembly
+- metabarcoding
 
 # Aims
 
@@ -55,7 +65,7 @@ $ iss generate --ncbi bacteria -U 100 -n 10M \
     --model novaseq --cpus 8 --output reads
 ```
 
-## Kernel Density Estimation
+## Kernel Density Estimation {#paper data-background="assets/img/paper_i.svg"}
 
 hisograms vs KDE
 
@@ -63,21 +73,42 @@ hisograms vs KDE
 
 - LOTS of taxonomy classifications tools
 - a few different binning software
+- work in progress
 
-# Paper II - Data review
+# Paper II - Data review {#paper data-background="assets/img/paper_ii.svg"}
 
-## The 16S gene and metabarcoding
-## "Special" review of the field
-## Results
-## The way forward
+## The 16S gene and metabarcoding {#paper data-background="assets/img/paper_ii.svg"}
 
-# Paper III
+16S regions here 
 
-## Why?
-## Results
-## Future Perspectives
+## "Special" review of the field {#paper data-background="assets/img/paper_ii.svg"}
 
-# Future future perspectives
+table with papers here OR workflow
+
+## Results {#paper data-background="assets/img/paper_ii.svg"}
+
+some plots
+
+## The way forward {#paper data-background="assets/img/paper_ii.svg"}
+
+WMS
+
+# Paper III {#paper data-background="assets/img/paper_iii.svg"}
+
+## Why? {#paper data-background="assets/img/paper_iii.svg"}
+
+link to paper II but...
+
+## Results {#paper data-background="assets/img/paper_iii.svg"}
+
+plots n' stuff
+
+# Future perspectives
 
 ## Methods
+
+TODO
+
 ## Mucus
+
+TODO
