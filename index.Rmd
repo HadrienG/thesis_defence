@@ -14,6 +14,11 @@ output:
             slideNumber: true
 ---
 
+```{r include=FALSE}
+library(knitr)
+```
+
+
 # {#intro-slide data-background="assets/img/background.jpg"}
 
 ## {#intro-slide data-background="assets/img/background.jpg"}
@@ -59,49 +64,76 @@ From organism to sequence
 
 ## Results {#paper data-background="assets/img/paper_i.svg"}
 
+Easily installable and usable
+
 ```bash
-$ pip install insilicoseq
+$ conda install insilicoseq
 $ iss generate --ncbi bacteria -U 100 -n 10M \
     --model novaseq --cpus 8 --output reads
 ```
 
+And used in the development of 9 new published metagenomic software.
+
 ## Kernel Density Estimation {#paper data-background="assets/img/paper_i.svg"}
 
-hisograms vs KDE
+:::::: {style="display: flex;"}
+::: {.column width="50%"}
+![](assets/img/kde.svg)
+:::
+::: {.column width="50%"}
+![](assets/img/kde_2d.svg)
+:::
+::::::
 
-## Benchmarking {#paper data-background="assets/img/paper_i.svg"}
+## {#paper data-background="assets/img/paper_i.svg"}
 
-- LOTS of taxonomy classifications tools
-- a few different binning software
-- work in progress
+![](assets/img/wordcloud.svg)
 
 # Paper II - Data review {#paper data-background="assets/img/paper_ii.svg"}
 
 ## The 16S gene and metabarcoding {#paper data-background="assets/img/paper_ii.svg"}
 
-16S regions here 
+![](assets/img/16S_regions.svg)
 
 ## "Special" review of the field {#paper data-background="assets/img/paper_ii.svg"}
 
-table with papers here OR workflow
+![](assets/img/paper_ii_workflow.svg)
 
 ## Results {#paper data-background="assets/img/paper_ii.svg"}
 
-some plots
-
-## The way forward {#paper data-background="assets/img/paper_ii.svg"}
-
-WMS
+- top genera here
 
 # Paper III {#paper data-background="assets/img/paper_iii.svg"}
 
-## Why? {#paper data-background="assets/img/paper_iii.svg"}
+## {#paper data-background="assets/img/paper_iii.svg"}
 
-link to paper II but...
+WMS but...
+
+## {#paper data-background="assets/img/paper_iii.svg"}
+
+Why?
+
+## {#paper data-background="assets/img/paper_iii.svg"}
+
+- baseline WIO
+- Relation in coral reef with environment
+- future perspective for monitoring
+
+## Methods {#paper data-background="assets/img/paper_iii.svg"}
+
+![](assets/img/paper_iii_workflow.svg)
 
 ## Results {#paper data-background="assets/img/paper_iii.svg"}
 
-plots n' stuff
+- insert genus chart here
+
+## Results {#paper data-background="assets/img/paper_iii.svg"}
+
+![](assets/img/tree_bact.svg)
+
+## Results  {#paper data-background="assets/img/paper_iii.svg"}
+
+![](assets/img/kegg.svg)
 
 # Future perspectives
 

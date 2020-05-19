@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 3000 2250" style="enable-background:new 0 0 3000 2250;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#203466;fill-opacity:0;}
+	.st1{font-family:'Quicksand-Regular';}
+	.st2{font-size:162.7699px;}
+	.st3{fill:#9A80A4;}
+	.st4{font-size:101.7312px;}
+	.st5{fill:#848DA6;}
+	.st6{font-size:101.7242px;}
+</style>
+<g id="tax">
+	<rect y="-560" class="st0" width="3500" height="2625"/>
+	<text transform="matrix(1 0 0 1 608.5635 642.6129)" class="st1 st2">taxonomic classification</text>
+	<text transform="matrix(1 0 0 1 1236.2743 531.3831)" class="st3 st1 st4">centrifuge</text>
+	<text transform="matrix(1 0 0 1 1260.3252 735.3831)" class="st3 st1 st4">rapsearch</text>
+	<text transform="matrix(1 0 0 1 1255.5979 465.3831)" class="st5 st1 st4">sourmash</text>
+	<text transform="matrix(1 0 0 1 1369.1992 807.3831)" class="st3 st1 st4">diamond</text>
+	<text transform="matrix(1 0 0 1 1211.7688 405.3832)" class="st5 st1 st4">mmseqs2</text>
+	<text transform="matrix(1 0 0 1 1285.4192 873.3831)" class="st3 st1 st4">kraken</text>
+	<text transform="matrix(1 0 0 1 1267.3643 345.3832)" class="st5 st1 st4">salmon</text>
+	<text transform="matrix(0.9957 -9.275241e-02 9.275241e-02 0.9957 1138.7483 817.4204)" class="st5 st1 st4">kaiju</text>
+	<text transform="matrix(0.9338 0.3577 -0.3577 0.9338 1479.936 243.6046)" class="st5 st1 st6">despi</text>
+	<text transform="matrix(1 0 0 1 1367.9607 945.3831)" class="st3 st1 st4">blast</text>
+	<text transform="matrix(1 0 0 1 1369.1993 1253.9149)" class="st3 st1 st4">mycc</text>
+</g>
+<g id="binning">
+	<text transform="matrix(1 0 0 1 753.7684 1446.5968)" class="st1 st2">metagenome binning</text>
+	<text transform="matrix(1 0 0 1 1076.6929 1537.7119)" class="st3 st1 st4">metabat2</text>
+	<text transform="matrix(0.9972 -7.522753e-02 7.522753e-02 0.9972 1445.9567 1352.2393)" class="st3 st1 st4">concoct</text>
+	<text transform="matrix(0.9995 -3.023944e-02 3.023944e-02 0.9995 1479.9355 1623.9)" class="st3 st1 st4">maxbin2</text>
+	<text transform="matrix(1 0 0 1 993.3597 1324.4531)" class="st3 st1 st4">cocacola</text>
+	<text transform="matrix(1 0 0 1 1560.0266 1510.5817)" class="st3 st1 st4">comet</text>
+</g>
+</svg>
