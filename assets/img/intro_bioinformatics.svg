@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 787 575" style="enable-background:new 0 0 787 575;" xml:space="preserve">
+<style type="text/css">
+	.st0{font-family:'Quicksand-Regular';}
+	.st1{font-size:21px;}
+	.st2{fill:none;stroke:#C1272D;stroke-width:6;stroke-miterlimit:10;}
+	.st3{fill:none;}
+	.st4{fill:#C1272D;}
+	.st5{fill:none;stroke:#009245;stroke-width:6;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#F7931E;stroke-width:6;stroke-miterlimit:10;}
+	.st7{fill:none;stroke:#0071BC;stroke-width:6;stroke-miterlimit:10;}
+	.st8{fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:10;}
+	.st9{font-family:'MyriadPro-Regular';}
+	.st10{font-size:12px;}
+</style>
+<g id="legend_x5F_letters">
+	<text transform="matrix(1 0 0 1 335.5 87)" class="st0 st1">C</text>
+	<text transform="matrix(1 0 0 1 335.5 275)" class="st0 st1">D</text>
+	<text transform="matrix(1 0 0 1 335.5 409)" class="st0 st1">E</text>
+	<text transform="matrix(0.8727 0 0 1 563 87)" class="st0 st1">F</text>
+</g>
+<g id="arrows">
+	<g>
+		<line class="st2" x1="383.2" y1="208.2" x2="383.2" y2="253.2"/>
+		<line class="st3" x1="383.2" y1="208.2" x2="383.2" y2="253.2"/>
+		<g>
+			<line class="st2" x1="383.2" y1="208.2" x2="383.2" y2="253.2"/>
+			<g>
+				<polygon class="st4" points="375.1,250.8 383.2,264.8 391.3,250.8 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<line class="st2" x1="383.2" y1="346.2" x2="383.2" y2="391.2"/>
+		<line class="st3" x1="383.2" y1="346.2" x2="383.2" y2="391.2"/>
+		<g>
+			<line class="st2" x1="383.2" y1="346.2" x2="383.2" y2="391.2"/>
+			<g>
+				<polygon class="st4" points="375.1,388.8 383.2,402.8 391.3,388.8 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st2" x1="486.2" y1="159" x2="531.2" y2="159"/>
+			<g>
+				<polygon class="st4" points="528.8,167.1 542.8,159 528.8,150.9 				"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="pieces">
+	<g>
+		<line class="st5" x1="344.5" y1="128" x2="363.5" y2="128"/>
+	</g>
+	<g>
+		<line class="st6" x1="363.5" y1="164" x2="382.5" y2="164"/>
+	</g>
+	<g>
+		<line class="st7" x1="335.5" y1="164" x2="354.5" y2="164"/>
+	</g>
+	<g>
+		<line class="st5" x1="363.5" y1="146" x2="382.5" y2="146"/>
+	</g>
+	<g>
+		<line class="st6" x1="335.5" y1="181" x2="354.5" y2="181"/>
+	</g>
+	<g>
+		<line class="st5" x1="407.5" y1="188" x2="426.5" y2="188"/>
+	</g>
+	<g>
+		<line class="st7" x1="388.5" y1="199" x2="407.5" y2="199"/>
+	</g>
+	<g>
+		<line class="st6" x1="398.5" y1="123" x2="417.5" y2="123"/>
+	</g>
+	<g>
+		<line class="st7" x1="373.5" y1="116" x2="392.5" y2="116"/>
+	</g>
+	<g>
+		<line class="st5" x1="408.5" y1="141" x2="427.5" y2="141"/>
+	</g>
+	<g>
+		<line class="st5" x1="398.5" y1="172" x2="417.5" y2="172"/>
+	</g>
+	<g>
+		<line class="st5" x1="388.5" y1="152" x2="407.5" y2="152"/>
+	</g>
+	<g>
+		<line class="st5" x1="382.5" y1="134" x2="401.5" y2="134"/>
+	</g>
+	<g>
+		<line class="st5" x1="378.5" y1="182" x2="397.5" y2="182"/>
+	</g>
+	<g>
+		<line class="st7" x1="354.5" y1="199" x2="373.5" y2="199"/>
+	</g>
+	<g>
+		<line class="st7" x1="447.5" y1="146" x2="466.5" y2="146"/>
+	</g>
+	<g>
+		<line class="st7" x1="427.5" y1="176" x2="446.5" y2="176"/>
+	</g>
+	<g>
+		<line class="st5" x1="427.5" y1="123" x2="446.5" y2="123"/>
+	</g>
+	<g>
+		<line class="st6" x1="417.5" y1="159" x2="436.5" y2="159"/>
+	</g>
+</g>
+<g id="pieces_x5F_ordered">
+</g>
+<g id="contig">
+	<g>
+		<line class="st5" x1="265.5" y1="304" x2="358.5" y2="304"/>
+	</g>
+	<g>
+		<line class="st7" x1="484.5" y1="324" x2="544.5" y2="324"/>
+	</g>
+	<g>
+		<line class="st6" x1="405.5" y1="313" x2="479.5" y2="313"/>
+	</g>
+	<g>
+		<line class="st7" x1="343.5" y1="324" x2="403.5" y2="324"/>
+	</g>
+	<g>
+		<line class="st6" x1="251.5" y1="476" x2="325.5" y2="476"/>
+	</g>
+	<g>
+		<line class="st5" x1="350.5" y1="473" x2="434.5" y2="473"/>
+	</g>
+	<g>
+		<line class="st7" x1="462.5" y1="493" x2="522.5" y2="493"/>
+	</g>
+	<g>
+		<line class="st7" x1="462.5" y1="458" x2="522.5" y2="458"/>
+	</g>
+	<rect x="242.5" y="435" class="st8" width="92" height="78"/>
+	<rect x="450.5" y="435" class="st8" width="92" height="78"/>
+	<rect x="346.5" y="434" class="st8" width="92" height="78"/>
+</g>
+<text transform="matrix(1 0 0 1 563 141)"><tspan x="0" y="0" class="st9 st10">Species A    25</tspan><tspan x="0" y="14.4" class="st9 st10">Species B    128</tspan><tspan x="0" y="28.8" class="st9 st10">Species C    20</tspan><tspan x="0" y="43.2" class="st9 st10">Species D    246</tspan><tspan x="0" y="57.6" class="st9 st10">...</tspan></text>
+</svg>

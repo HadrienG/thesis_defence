@@ -40,4 +40,7 @@
     text-align: center;
 }
 
-
+#illumina img {
+    height: 600px;
+    width: auto;
+}

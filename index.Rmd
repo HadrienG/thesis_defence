@@ -39,20 +39,20 @@ library(knitr)
 
 ## Sequencing
 
-From organism to sequence
+![](assets/img/sequencing_metagenomes.svg)
 
 ## Bioinformatics
 
-- From 
-- multiple genome assembly
-- taxonomic classification
-- protein assembly
-- metabarcoding
+![](assets/img/intro_bioinformatics.svg)
+
+# Why study the coral microbiome?
+
+## {data-background="assets/img/why_bg.svg"}
 
 # Aims
 
-- metagenomics, improve methodology
-- more understanding of coral microbiome, for helping them
+- Improve methodology within the field of metagenomics
+- Understanding coral-associated microbes better
 
 # Simulating Illumina Metagenomic Data with InSilicoSeq {#paper data-background="assets/img/paper_i.svg"}
 
@@ -139,8 +139,11 @@ Why?
 
 ## Methods
 
-TODO
+bechmarking tax classification
+binning in particular  an be improved
 
 ## Mucus
 
-TODO
+ongoing, took the samples and sequenced
+primary immune system
+
