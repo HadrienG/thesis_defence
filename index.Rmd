@@ -58,9 +58,20 @@ library(knitr)
 
 ## Why? {#paper data-background="assets/img/paper_i.svg"}
 
-- metagenomics is kinda new
-- previous simulator did not meet our needs
-- testing and benchmarking software
+<div class="fragment fade-in">
+why do we need simulated data?
+</div>
+
+## {#paper data-background="assets/img/paper_i.svg"}
+
+![](assets/img/wordcloud.svg)
+
+## Why? {#paper data-background="assets/img/paper_i.svg"}
+
+why do we need simulated data?
+<div class="fragment fade-in">
+why do we need *yet another* simulation software?
+</div>
 
 ## Results {#paper data-background="assets/img/paper_i.svg"}
 
@@ -72,9 +83,11 @@ $ iss generate --ncbi bacteria -U 100 -n 10M \
     --model novaseq --cpus 8 --output reads
 ```
 
-And used in the development of 9 new published metagenomic software.
+And used in the development of 10 new published metagenomic software.
 
-## Kernel Density Estimation {#paper data-background="assets/img/paper_i.svg"}
+## Results {#paper data-background="assets/img/paper_i.svg"}
+
+Kernel Density Estimation
 
 :::::: {style="display: flex;"}
 ::: {.column width="50%"}
@@ -84,6 +97,10 @@ And used in the development of 9 new published metagenomic software.
 ![](assets/img/kde_2d.svg)
 :::
 ::::::
+
+## Results {#paper data-background="assets/img/paper_i.svg"}
+
+![](assets/img/qual.svg)
 
 ## {#paper data-background="assets/img/paper_i.svg"}
 
