@@ -142,47 +142,42 @@ Kernel Density Estimation
 
 ![](assets/img/paper_ii_bleached.svg)
 
-# Paper III {#paper data-background="assets/img/paper_iii.svg"}
+# Molecular Ecology of Coral Reef Microorganisms in the Western Indian Ocean coast of Kenya {#paper3 data-background="assets/img/paper_iii.svg"}
 
-## {#paper data-background="assets/img/paper_iii.svg"}
+## {#paper3 data-background="assets/img/why_bg.svg"}
 
-WMS but...
-
-## {#paper data-background="assets/img/paper_iii.svg"}
-
-Why?
-
-## {#paper data-background="assets/img/paper_iii.svg"}
-
-- baseline WIO
-- Relation in coral reef with environment
-- future perspective for monitoring
-
-## Methods {#paper data-background="assets/img/paper_iii.svg"}
+## Methods {#paper3 .workflow data-background="assets/img/paper_iii.svg"}
 
 ![](assets/img/paper_iii_workflow.svg)
 
-## Results {#paper data-background="assets/img/paper_iii.svg"}
+## Results {#paper3 .bar data-background="assets/img/paper_iii.svg"}
 
-- insert genus chart here
+![](assets/img/paper_iii_genera.svg)
 
-## Results {#paper data-background="assets/img/paper_iii.svg"}
+## Results {#paper3 .tree data-background="assets/img/paper_iii.svg"}
 
 ![](assets/img/tree_bact.svg)
 
-## Results  {#paper data-background="assets/img/paper_iii.svg"}
+## Results  {#paper3 data-background="assets/img/paper_iii.svg"}
 
 ![](assets/img/kegg.svg)
+
+# Conclusion
+
+- warm water coral microbiomes is dominated by Endozoicomonas, but we are unsare what its role is
+- metagenomics allows insight into function, allowing to dive in the microbiome
+- coral bacteria are sensitive to pollution, and are good potential markers for monitoring reef health and eventually inform policy making
 
 # Future perspectives
 
 ## Methods
 
-bechmarking tax classification
-binning in particular  an be improved
+- need for benchmarking is still there
+- automatic metagenome binning methods have a lot of room for improvement
 
-## Mucus
+## Corals
 
-ongoing, took the samples and sequenced
-primary immune system
+- Whole metagenome sequencing on coral samples (SML)
+- This project is ongoing, sampling and sequencing done!
 
+# {#thanks data-background="assets/img/thank_you.svg"}

@@ -40,7 +40,17 @@
     text-align: center;
 }
 
-#illumina img {
+.workflow img {
+    height: 600px;
+    width: auto;
+}
+
+.tree img {
+    height: 600px;
+    width: auto;
+}
+
+.bar img {
     height: 600px;
     width: auto;
 }
