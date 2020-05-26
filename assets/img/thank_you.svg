@@ -15,11 +15,11 @@
 <g id="supervisors">
 	<rect x="107.1" y="130.5" class="st0" width="452.6" height="314.6"/>
 	<text transform="matrix(1 0 0 1 108.0527 157.1605)" class="st1 st2">Supervisors:</text>
-	<text transform="matrix(1 0 0 1 108.0527 243.5605)" class="st3 st2">- Erik Bongcam-Rudloff</text>
-	<text transform="matrix(1 0 0 1 108.0527 286.7606)" class="st3 st2">- Mikael Berg</text>
-	<text transform="matrix(1 0 0 1 108.0527 329.9605)" class="st3 st2">- Santie de Villiers</text>
-	<text transform="matrix(1 0 0 1 108.0527 373.1605)" class="st3 st2">- Oskar Karlsson-Lindsjö</text>
-	<text transform="matrix(1 0 0 1 108.0527 416.3605)" class="st3 st2">- Juliette Hayer</text>
+	<text transform="matrix(1 0 0 1 107.1 201.4001)" class="st3 st2">- Pr. Erik Bongcam-Rudloff</text>
+	<text transform="matrix(1 0 0 1 107.1 244.6001)" class="st3 st2">- Pr. Mikael Berg</text>
+	<text transform="matrix(1 0 0 1 107.1 287.8001)" class="st3 st2">- Dr. Santie de Villiers</text>
+	<text transform="matrix(1 0 0 1 107.1 331.0001)" class="st3 st2">- Dr. Oskar Karlsson-Lindsjö</text>
+	<text transform="matrix(1 0 0 1 107.1 374.2001)" class="st3 st2">- Dr. Juliette Hayer</text>
 </g>
 <g id="funding">
 	<text transform="matrix(1 0 0 1 637.875 164.9165)" class="st1 st2">Funding:</text>
@@ -642,9 +642,9 @@ YII=" transform="matrix(0.3975 0 0 0.3975 628.8302 321)">
 	</image>
 </g>
 <g id="public">
-	<rect x="112.9" y="462.3" class="st0" width="572.9" height="175"/>
-	<text transform="matrix(1 0 0 1 112.8875 488.9422)" class="st1 st2">Opponent and committee:</text>
-	<text transform="matrix(1 0 0 1 112.9125 544.573)" class="st5"><tspan x="0" y="0" class="st3 st2">- Pr. Björn Andersson</tspan><tspan x="0" y="43.2" class="st3 st2">- Pr. Stefan Bertilsson</tspan><tspan x="0" y="86.4" class="st3 st2">- Pr. Mats Björk</tspan><tspan x="0" y="129.6" class="st3 st2">- Dr. Claudia Von Brömssen</tspan><tspan x="0" y="172.8" class="st3 st2">- Dr. Sari Peura </tspan></text>
+	<rect x="112.9" y="393.1" class="st0" width="572.9" height="175"/>
+	<text transform="matrix(1 0 0 1 112.9124 419.7114)" class="st1 st2">Opponent and committee:</text>
+	<text transform="matrix(1 0 0 1 112.9374 475.3422)" class="st5"><tspan x="0" y="0" class="st3 st2">- Pr. Björn Andersson</tspan><tspan x="0" y="43.2" class="st3 st2">- Pr. Stefan Bertilsson</tspan><tspan x="0" y="86.4" class="st3 st2">- Pr. Mats Björk</tspan><tspan x="0" y="129.6" class="st3 st2">- Dr. Claudia Von Brömssen</tspan><tspan x="0" y="172.8" class="st3 st2">- Dr. Sari Peura </tspan></text>
 </g>
 <image style="overflow:visible;" width="6258" height="3866" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAGHIAAA8aCAYAAAH+AG27AAAACXBIWXMAAC4jAAAuIwF4pT92AAAK
 TWlDQ1BQaG90b3Nob3AgSUNDIHByb2ZpbGUAAHjanVN3WJP3Fj7f92UPVkLY8LGXbIEAIiOsCMgQ

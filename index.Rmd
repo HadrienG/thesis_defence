@@ -164,8 +164,8 @@ Kernel Density Estimation
 
 # Conclusion
 
-- warm water coral microbiomes is dominated by Endozoicomonas, but we are unsare what its role is
-- metagenomics allows insight into function, allowing to dive in the microbiome
+- Warm water coral microbiomes are dominated by *Endozoicomona*, but we are unsure what its role is
+- Metagenomics allows insight into function, allowing to *dive* in the microbiome
 - coral bacteria are sensitive to pollution, and are good potential markers for monitoring reef health and eventually inform policy making
 
 # Future perspectives
