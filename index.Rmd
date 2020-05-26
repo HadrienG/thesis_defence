@@ -106,19 +106,41 @@ Kernel Density Estimation
 
 ![](assets/img/wordcloud.svg)
 
-# Paper II - Data review {#paper data-background="assets/img/paper_ii.svg"}
+# Paper II - A Data Driven Review of the Coral Microbiome {#paper data-background="assets/img/paper_ii.svg"}
 
 ## The 16S gene and metabarcoding {#paper data-background="assets/img/paper_ii.svg"}
 
 ![](assets/img/16S_regions.svg)
 
-## "Special" review of the field {#paper data-background="assets/img/paper_ii.svg"}
+## Methods {#paper data-background="assets/img/paper_ii.svg"}
 
 ![](assets/img/paper_ii_workflow.svg)
 
+## Methods {#paper data-background="assets/img/paper_ii.svg"}
+
+- dada2 handles fine-scale variations
+- less impact from contaminants
+
+## Methods {#paper data-background="assets/img/paper_ii.svg"}
+
+- shrinkage
+- GLM for each gene
+- Wald test
+
 ## Results {#paper data-background="assets/img/paper_ii.svg"}
 
-- top genera here
+:::::: {style="display: flex;"}
+::: {.column width="40%" height="400px"}
+![](assets/img/paper_ii_phyla.svg)
+:::
+::: {.column width="60%" height="400px"}
+![](assets/img/paper_ii_proteo.svg)
+:::
+::::::
+
+## Results {#paper data-background="assets/img/paper_ii.svg"}
+
+![](assets/img/paper_ii_bleached.svg)
 
 # Paper III {#paper data-background="assets/img/paper_iii.svg"}
 
