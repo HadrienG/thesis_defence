@@ -51,7 +51,7 @@ library(knitr)
 
 # Aims
 
-- Improve methodology within the field of metagenomics
+- Improving methodology within the field of metagenomics
 - Understanding coral-associated microbes better
 
 # Simulating Illumina Metagenomic Data with InSilicoSeq {#paper data-background="assets/img/paper_i.svg"}
@@ -116,23 +116,13 @@ Kernel Density Estimation
 
 ![](assets/img/paper_ii_workflow.svg)
 
-## Methods {#paper data-background="assets/img/paper_ii.svg"}
-
-- Dada2 handles fine-scale variations
-- Less impact from contaminants
-
-## Methods {#paper data-background="assets/img/paper_ii.svg"}
-
-- Linear modelling with DESeq2
-- GLM for each taxonomy assignment at the genus level
-
 ## Results {#paper data-background="assets/img/paper_ii.svg"}
 
 :::::: {style="display: flex;"}
-::: {.column width="40%" height="400px"}
+::: {.column width="60%" height="400px"}
 ![](assets/img/paper_ii_phyla.svg)
 :::
-::: {.column width="60%" height="400px"}
+::: {.column width="40%" height="400px"}
 ![](assets/img/paper_ii_proteo.svg)
 :::
 ::::::
@@ -176,12 +166,12 @@ Kernel Density Estimation
 
 ## Methods
 
-- need for benchmarking is still there
-- automatic metagenome binning methods have a lot of room for improvement
+- Need for benchmarking is still there
+- Automated metagenome binning methods have a lot of room for improvement
 
 ## Corals
 
 - Whole metagenome sequencing on coral samples (SML)
-- This project is ongoing, sampling and sequencing done!
+- Monitoring anibiotic resistance in water
 
 # {#thanks data-background="assets/img/thank_you.svg"}
