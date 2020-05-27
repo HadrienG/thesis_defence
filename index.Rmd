@@ -118,14 +118,13 @@ Kernel Density Estimation
 
 ## Methods {#paper data-background="assets/img/paper_ii.svg"}
 
-- dada2 handles fine-scale variations
-- less impact from contaminants
+- Dada2 handles fine-scale variations
+- Less impact from contaminants
 
 ## Methods {#paper data-background="assets/img/paper_ii.svg"}
 
-- shrinkage
-- GLM for each gene
-- Wald test
+- Linear modelling with DESeq2
+- GLM for each taxonomy assignment at the genus level
 
 ## Results {#paper data-background="assets/img/paper_ii.svg"}
 
@@ -150,6 +149,11 @@ Kernel Density Estimation
 
 ![](assets/img/paper_iii_workflow.svg)
 
+## Results {#paper3 data-background="assets/img/paper_iii.svg"}
+
+- 193 draft genomes recovered
+- 12 million unique putative proteins
+
 ## Results {#paper3 .bar data-background="assets/img/paper_iii.svg"}
 
 ![](assets/img/paper_iii_genera.svg)
@@ -166,7 +170,7 @@ Kernel Density Estimation
 
 - Warm water coral microbiomes are dominated by *Endozoicomonas*, but we are unsure what its role is
 - Metagenomics allows insight into function, allowing to *dive* in the microbiome
-- coral bacteria are sensitive to pollution, and are good potential markers for monitoring reef health and eventually inform policy making
+- coral bacteria are sensitive to pollution, and are promising potential markers for monitoring reef health and eventually inform policy making
 
 # Future perspectives
 
