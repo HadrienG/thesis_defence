@@ -83,7 +83,7 @@ $ iss generate --ncbi bacteria -U 100 -n 10M \
     --model novaseq --cpus 8 --output reads
 ```
 
-And used in the development of 10 new published metagenomic software.
+And used in the development of 10 published metagenomic software.
 
 ## Results {#paper data-background="assets/img/paper_i.svg"}
 
@@ -172,6 +172,6 @@ Kernel Density Estimation
 ## Corals
 
 - Whole metagenome sequencing on coral samples (SML)
-- Monitoring anibiotic resistance in water
+- Monitoring antibiotic resistance in water
 
 # {#thanks data-background="assets/img/thank_you.svg"}
