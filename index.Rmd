@@ -100,13 +100,13 @@ Kernel Density Estimation
 
 ## Results {#paper data-background="assets/img/paper_i.svg"}
 
-![](assets/img/qual.svg)
+![](assets/img/quals.png)
 
 ## {#paper data-background="assets/img/paper_i.svg"}
 
 ![](assets/img/wordcloud.svg)
 
-# Paper II - A Data Driven Review of the Coral Microbiome {#paper data-background="assets/img/paper_ii.svg"}
+# A Data Driven Review of the Coral Microbiome {#paper data-background="assets/img/paper_ii.svg"}
 
 ## The 16S gene and metabarcoding {#paper data-background="assets/img/paper_ii.svg"}
 
