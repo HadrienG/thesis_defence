@@ -119,10 +119,10 @@ Kernel Density Estimation
 ## Results {#paper data-background="assets/img/paper_ii.svg"}
 
 :::::: {style="display: flex;"}
-::: {.column width="60%" height="400px"}
+::: {.column width="50%" height="300px"}
 ![](assets/img/paper_ii_phyla.svg)
 :::
-::: {.column width="40%" height="400px"}
+::: {.column width="50%" height="400px"}
 ![](assets/img/paper_ii_proteo.svg)
 :::
 ::::::
